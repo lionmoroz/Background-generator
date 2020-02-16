@@ -1,2 +1,2 @@
 # Background-generator
-Crieate your background-color on your page
+Create your background-color on your page
